@@ -10,7 +10,7 @@ tags:
 
 validation of one field with [1..n] rules
 
-validation of a set of fields, each field with [1..n] rules; rules can include values of other fields in the set
+validation of a set of fields, each field with [1..n] rules; #todo rules can include values of other fields in the set
 
 ## validation with side-effects
 
